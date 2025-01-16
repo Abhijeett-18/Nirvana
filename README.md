@@ -3,7 +3,9 @@
 # Description
 Nirvana is a web development project using Php and MySQL. Its a dynamic web application designed to allow customers to make reservations at the restaurant and allowing them to order food directly from the website aimed to streamline operations.
 # Technologies Used
-HTML
-CSS
+HTML 
+CSS 
 JAVASCRIPT
 BOOTSTRAP
+PHP
+MYSQL
